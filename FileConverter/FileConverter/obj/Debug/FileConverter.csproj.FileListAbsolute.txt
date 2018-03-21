@@ -1,0 +1,15 @@
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\bin\Debug\FileConverter.exe.config
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\bin\Debug\FileConverter.exe
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\bin\Debug\FileConverter.pdb
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\bin\Debug\Topshelf.dll
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\obj\Debug\FileConverter.csprojResolveAssemblyReference.cache
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\obj\Debug\FileConverter.exe
+C:\Users\gkirilovas\Desktop\c#\FileConverter\FileConverter\obj\Debug\FileConverter.pdb
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\bin\Debug\FileConverter.exe.config
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\bin\Debug\FileConverter.exe
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\bin\Debug\FileConverter.pdb
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\bin\Debug\Topshelf.dll
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\obj\Debug\FileConverter.csprojResolveAssemblyReference.cache
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\obj\Debug\FileConverter.exe
+C:\Users\wrong\Desktop\C#from LB\c#\FileConverter\FileConverter\obj\Debug\FileConverter.pdb

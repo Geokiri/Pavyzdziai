@@ -1,6 +1,0 @@
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\bin\Debug\Bandymas.exe.config
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\bin\Debug\Bandymas.exe
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\bin\Debug\Bandymas.pdb
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\obj\Debug\Bandymas.csprojResolveAssemblyReference.cache
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\obj\Debug\Bandymas.exe
-C:\Users\gkirilovas\Desktop\c#\FileConverter\Bandymas\obj\Debug\Bandymas.pdb
